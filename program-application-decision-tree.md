@@ -1,3 +1,6 @@
+# Program Accreditation Decision Tree
+
+```mermaid
 flowchart TD
     START[Begin Application Evaluation] --> COMPLETE{Is application complete?}
     
